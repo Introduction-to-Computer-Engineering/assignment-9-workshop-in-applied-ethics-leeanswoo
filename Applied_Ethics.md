@@ -29,6 +29,7 @@ i)
   cons: hinders ability to adapt to different softwares/UI, job market would be affected due to companies losing proprietary ownership of specific products, short term: Would force custoemrs to discard old laptops adding on to the harm of our environment.
   
   ii) a. Immediately upon launch: Would cause a spike in laptops being thrown away and cause excess waste and impact on the enviornment 
+      
       b. After enough time for it to be absorbed into everyday life: Would lose the ability to adapt to different softwares or User Interfaces. 
   
   Bonus: A way to incentivize employees, is to hold random checks on random employees to make sure our code of ethics is being upheld. If after the check it is found that they are being upheld, provide a monetary award, because most of the time a person might be unethical is due to greed and greed being a product of money.
