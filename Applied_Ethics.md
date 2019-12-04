@@ -9,9 +9,13 @@
 1) In a small group up to 5 people, imagine you are a small tech startup. Then:
 i)
    Leean Woo
+   
    Vincent Feil
+   
    Jessica Gardner
+   
    Joaquin Trujillo
+   
    Bruce Liu
    
    ii) President: Vincent Feil
