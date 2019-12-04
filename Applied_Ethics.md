@@ -2,7 +2,10 @@
 ## Answer the Questions
 
 1) If all people were ethical in their interactions, there would be no need for the judiciary system since law enforcement and law itself is a direct product from trying to control unethical behavior.
-2) 
+
+2) Banning smoking in public places 
+
+3) Bonus: A way to incentivize employees, is to hold random checks on random employees to make sure our code of ethics is being upheld. If after the check it is found that they are being upheld, provide a monetary award, because most of the time a person might be unethical is due to greed and greed being a product of money. Also if employees pass inspections, they will be more eligable to raises and promotions. We would also use technilogical mutation to change the frequency of the of the access to certain levels of security to prevent unauthorized access to data. 
 
 ## Class Activities
 
@@ -28,12 +31,12 @@ i)
   i) Pros: Economic freedom for the individual, ease of development, 
   cons: hinders ability to adapt to different softwares/UI, job market would be affected due to companies losing proprietary ownership of specific products, short term: Would force custoemrs to discard old laptops adding on to the harm of our environment.
   
-  ii) a. Immediately upon launch: Would cause a spike in laptops being thrown away and cause excess waste and impact on the enviornment 
-      
-      b. After enough time for it to be absorbed into everyday life: Would lose the ability to adapt to different softwares or User Interfaces. 
+  ii) 
   
-  Bonus: A way to incentivize employees, is to hold random checks on random employees to make sure our code of ethics is being upheld. If after the check it is found that they are being upheld, provide a monetary award, because most of the time a person might be unethical is due to greed and greed being a product of money.
- Also if employees pass inspections, they will be more eligable to raises and promotions.  
+  a. Immediately upon launch: Would cause a spike in laptops being thrown away and cause excess waste and impact on the enviornment 
+      
+  b. After enough time for it to be absorbed into everyday life: Would lose the ability to adapt to different softwares or User Interfaces. 
+   
   
 3) Your small "band of merry psychopaths" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course?
 
@@ -42,7 +45,7 @@ i)
      No products we design or build will violate any laws or regulations that apply.
   2. Be transparent, let the user know exactly what data/information we are recieving and taking.
      All information gathered by the company will be secure and used only for the purposes stated. We will never sell or otherwise
-     compromise customer or suppier infomation.
+     compromise customer or supplier infomation.
   3. All employees and officers of the company will avoid conflics of interest.
      No employee of the company will engage in any activity that is in conflict with the goals of the company. Further no employee with 
      hold employment of any kind with a competing company or a company we do business with. 
