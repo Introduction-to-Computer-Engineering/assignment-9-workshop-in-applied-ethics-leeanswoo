@@ -3,7 +3,7 @@
 
 1) If all people were ethical in their interactions, there would be no need for the judiciary system since law enforcement and law itself is a direct product from trying to control unethical behavior.
 
-2) Banning smoking in public places 
+2) Banning smoking in public places. With the clean air act, it banned smoking in indoor and public places. After more research from tobacco was made and showed that second hand smoke was dangerous as well, it put the group (general population) before the individual (smoker)
 
 3) Bonus: A way to incentivize employees, is to hold random checks on random employees to make sure our code of ethics is being upheld. If after the check it is found that they are being upheld, provide a monetary award, because most of the time a person might be unethical is due to greed and greed being a product of money. Also if employees pass inspections, they will be more eligable to raises and promotions. We would also use technilogical mutation to change the frequency of the of the access to certain levels of security to prevent unauthorized access to data. 
 
@@ -70,5 +70,35 @@ i)
      use.
   
 Bonus: 
-  i) 
+  **i) Ethical codes are vulnerable to hostile takeover of the adopting organization. Pick one person from your group and let them remove 3 points from your Code, at their discretion, to be the most damaging overall.**
+  
+Follow copyright laws, our work will be honest and original. **- Choice for deletion**
+
+Be transparent, let the user know exactly what data/information we are recieving and taking. **- Choice for deletion**
+
+All employees and officers of the company will avoid conflic of interest.
+
+No employee will accept or convey a bribe. **- Choice for deletion**
+
+Our product/software will be accessible to everyone who seeks it.
+
+Employees will treat each other will respect, fairness, and equally.
+
+Customers will be treated with respect, fairness, equality, and diligence.
+
+Honor customer confidentiality.
+
+Produce highest quality possible.
+
+With those these specific codes of ethics, we would lose trust with the public, or our customers. Not only would it harm our trust with our customers and the general public, it would also cause legal troubles for our company which would ultimately cost the company money in the end. 
+
+a. If we fail to follow copyright laws, it would open up doors for legal actions against our company. Not only would it cause legal troubles but force the public to lose trust in us due to the fact we are based off someone elses work. 
+
+b. If we are not transparent with the information or data we take from our customers, again it would force the general public to lose trust in us. In this day and age of technology a big problem is data mining and/or selling customer data to customers for advertisement use. If we do not follow this ethic, then it would open up for our company, or individuals in our company to sell our customers information which people cherish their privacy in todays world. 
+
+c. If we did not have this ethic, it would open up doors for higher ups in our company to prioritize certain organizations or individuals rather than our general customer population. Not only could it affect our customers but affect our company, with a big enough bribe some employees might feel inclined to sell sensitive information from our company itself. 
+
+**ii) Below, discuss how, in retrospect, you should have stated the points of the Code, to make it robust to disruption.**
+
+We could make sure to communicate to our employees what we exactly mean by our code of ethics, and what troubles it could bring our company. The issue being if we are very specific, some individuals might find loopholes within our code of ethcis and work around it. 
    
